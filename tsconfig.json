@@ -3,10 +3,5 @@
   "compilerOptions": {
     "target": "esnext",
     "baseUrl": ".",
-    "paths": {
-      "*": ["src/*"],
-      "tests": ["tests/*"],
-      "@components/*": ["src/components/*"],
-    },
   }
 }
